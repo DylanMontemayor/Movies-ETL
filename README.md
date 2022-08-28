@@ -25,7 +25,7 @@ The pipeline was created in order to be useful for extracting new data, transfor
 
 
 
-![]()
+!['movies_query']()
 
 ### Ratings Query
 

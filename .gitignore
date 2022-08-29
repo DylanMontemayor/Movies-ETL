@@ -1,9 +1,9 @@
 config.py
 ETL_Deliverable1_Prueba.ipynb
+wiki_movies.csv
 ratings.csv
 movies_metadata.csv
 wikipedia-movies.json
-wiki_movies.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

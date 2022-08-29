@@ -25,7 +25,7 @@ The pipeline was created in order to be useful for extracting new data, transfor
 
 
 
-!['movies_query']()
+!['movies_query'](https://github.com/DylanMontemayor/Movies-ETL/blob/main/Resources/movies_query.png)
 
 ### Ratings Query
 
